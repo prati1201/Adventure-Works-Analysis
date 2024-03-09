@@ -1,5 +1,5 @@
 # Adventure-Works-Analysis
-Analysis of Adventure works Company as part of Internship Project associated with Excelr and AI Variant curriculam 
+Analysis of Adventure works Company as part of Internship Project associated with Excelr and AI Variant curriculum 
 --------------------------------------------------------------------------------------------------------------------------------
 ### Problem Statement 
 + Adventure works is a cycle manufacturing company looking forward to expand the sales accross various regions and territories.
