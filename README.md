@@ -13,5 +13,11 @@ Analysis of Adventure works Company as part of Internship Project associated wit
 - A customer tend to order at a minimum rate of 3 times which can be improved .
 -------------------------------------------------------------------------------------------------------------------------------
 ### Dashboard 
-
+1. Sales analysis
+![1](https://github.com/prati1201/Adventure-Works-Analysis/blob/main/Adw-1.png)
+2. Product analysis
+![2](https://github.com/prati1201/Adventure-Works-Analysis/blob/main/Adw%20-2.png)
+3. Customer Analysis
+![1](https://github.com/prati1201/Adventure-Works-Analysis/blob/main/Adw-3.png)
+    
 -------------------------------------------------------------------------------------------------------------------------------
