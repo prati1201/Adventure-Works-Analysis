@@ -1,2 +1,17 @@
 # Adventure-Works-Analysis
-Analysis of Adventure works Company as part of Internship project in AI Variant .
+Analysis of Adventure works Company as part of Internship Project associated with Excelr and AI Variant curriculam 
+--------------------------------------------------------------------------------------------------------------------------------
+### Problem Statement 
++ Adventure works is a cycle manufacturing company looking forward to expand the sales accross various regions and territories.
++ Analyse the sales and performance of the company to find weak points and strong points to improve
+--------------------------------------------------------------------------------------------------------------------------------
+### Key Insights 
+- Road bikes is the most selling bike .
+- Steps can be taken to improve the sales of jerseys , bottles and caps as they hav a potential markets
+- Europe has a minimum sales of 3 million per country which is a very good number and can be improved'
+- Dealerships can be used instead of product outlets to increase profit margins and expand accross asia
+- A customer tend to order at a minimum rate of 3 times which can be improved .
+-------------------------------------------------------------------------------------------------------------------------------
+### Dashboard 
+
+-------------------------------------------------------------------------------------------------------------------------------
